@@ -1,13 +1,13 @@
 //
-//  iOS_swiftUIUITestsLaunchTests.swift
-//  iOS_swiftUIUITests
+//  ImagePickerUITestsLaunchTests.swift
+//  ImagePickerUITests
 //
-//  Created by 김태원 on 2022/01/02.
+//  Created by 김태원 on 2022/01/27.
 //
 
 import XCTest
 
-class iOS_swiftUIUITestsLaunchTests: XCTestCase {
+class ImagePickerUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

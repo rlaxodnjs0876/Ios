@@ -1,14 +1,14 @@
 //
-//  iOS_swiftUITests.swift
-//  iOS_swiftUITests
+//  ImagePickerTests.swift
+//  ImagePickerTests
 //
-//  Created by 김태원 on 2022/01/02.
+//  Created by 김태원 on 2022/01/27.
 //
 
 import XCTest
-@testable import iOS_swiftUI
+@testable import ImagePicker
 
-class iOS_swiftUITests: XCTestCase {
+class ImagePickerTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
