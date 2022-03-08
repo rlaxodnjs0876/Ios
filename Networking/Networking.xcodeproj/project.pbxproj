@@ -16,6 +16,7 @@
 		42FF51ED27D6DE6000E74781 /* NetworkingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42FF51EC27D6DE6000E74781 /* NetworkingTests.swift */; };
 		42FF51F727D6DE6000E74781 /* NetworkingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42FF51F627D6DE6000E74781 /* NetworkingUITests.swift */; };
 		42FF51F927D6DE6000E74781 /* NetworkingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42FF51F827D6DE6000E74781 /* NetworkingUITestsLaunchTests.swift */; };
+		42FF520827D7440B00E74781 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42FF520727D7440B00E74781 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		42FF51F227D6DE6000E74781 /* NetworkingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NetworkingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		42FF51F627D6DE6000E74781 /* NetworkingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkingUITests.swift; sourceTree = "<group>"; };
 		42FF51F827D6DE6000E74781 /* NetworkingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkingUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		42FF520727D7440B00E74781 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				42FF51D727D6DE5F00E74781 /* SceneDelegate.swift */,
 				42FF51D927D6DE5F00E74781 /* ViewController.swift */,
 				42FF51DB27D6DE5F00E74781 /* Main.storyboard */,
+				42FF520727D7440B00E74781 /* Model.swift */,
 				42FF51DE27D6DE6000E74781 /* Assets.xcassets */,
 				42FF51E027D6DE6000E74781 /* LaunchScreen.storyboard */,
 				42FF51E327D6DE6000E74781 /* Info.plist */,
@@ -261,6 +264,7 @@
 				42FF51DA27D6DE5F00E74781 /* ViewController.swift in Sources */,
 				42FF51D627D6DE5F00E74781 /* AppDelegate.swift in Sources */,
 				42FF51D827D6DE5F00E74781 /* SceneDelegate.swift in Sources */,
+				42FF520827D7440B00E74781 /* Model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
