@@ -1,0 +1,6 @@
+framework module Pods_RestfulTest {
+  umbrella header "Pods-RestfulTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
